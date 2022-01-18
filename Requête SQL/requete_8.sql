@@ -1,9 +1,7 @@
-
-
-SELECT [1 - (p_3p.prix_moyen_metre2_3_pieces - p_2p.prix_moyen_metre2_2_pieces)] * 100 
+SELECT (p_3p.prix_moyen_metre2_3_pieces - p_2p.prix_moyen_metre2_2_pieces)/p_2p.prix_moyen_metre2_2_pieces * 100 
 AS diff_prix_3p_2p
 FROM (
-		SELECT AVG(prix)
+		SELECT AVG(prix) as prix_moyen_metre2_2_pieces
 		FROM vente
 		JOIN bienimmo USING (id_art)
 		WHERE bienimmo.type_local = 'Appartement' 
@@ -14,7 +12,7 @@ FROM (
 
 	(	
 
-		SELECT AVG(prix)
+		SELECT AVG(prix) as prix_moyen_metre2_3_pieces
 		FROM vente
 		JOIN bienimmo USING (id_art)
 		WHERE bienimmo.type_local = 'Appartement' 
