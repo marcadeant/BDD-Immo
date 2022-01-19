@@ -15,8 +15,8 @@ SELECT commune.code_departement as departement, AVG(prix / bienimmo.surfart) as 
 FROM vente
 JOIN bienimmo USING (id_art)
 JOIN commune USING (id_commune)
-WHERE bienimmo.type_local LIKE 'Maison'
-GROUP BY commune.code_departement;
+WHERE bienimmo.type_local='Maison'
+GROUP BY departement;
 
 SELECT departement, prix_moyen_mettre2
 FROM table_dep_prix
