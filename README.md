@@ -29,6 +29,7 @@ We use [**table_create**](https://github.com/marcadeant/BDD-Immo/blob/main/table
 # Application
 
 Get free to request the DB to understang the french property market and find your real property at right prices.
-//
+<br>
 Examples are provided into **Requete_SQL** folder. Click [here](https://github.com/marcadeant/BDD-Immo/tree/main/Reque%CC%82te%20SQL) to test requests with your DB
-NB : Data used in this project has been published by the french government 
+<br>
+**NB** : Data used in this project has been published by the french government 
