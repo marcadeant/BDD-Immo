@@ -15,10 +15,10 @@ All data we needed to store in a Data Base are as following :
 # Using of PostegreSQL as DBMS
 
 We propose to open a PostegreSQL server. Postegre offer us a easy to use admin interface for monitoring and requesting data base. 
-We use **table_create** written in SQL to build tables and relationnals dependancies
+We use [**table_create**](https://github.com/marcadeant/BDD-Immo/blob/main/table_create.sql) written in SQL to build tables and relationnals dependancies
 
-* UML diagram here **link to diagram** 
-* 3NF relational schema here **link to relational schema**
+* UML diagram [**here**](https://github.com/marcadeant/BDD-Immo/blob/main/MCD_UML_Diagram) (open file with [draw.io](https://app.diagrams.net/))
+* 3NF relational schema [**here**](https://github.com/marcadeant/BDD-Immo/blob/main/mld_bdd_immo.architect) (open file with Power Architect Software or similar) 
 
 # DB installation
 
@@ -30,5 +30,5 @@ We use **table_create** written in SQL to build tables and relationnals dependan
 
 Get free to request the DB to understang the french property market and find your real property at right prices.
 //
-Examples are provided into **Requete_SQL** folder.
+Examples are provided into **Requete_SQL** folder. Click [here](https://github.com/marcadeant/BDD-Immo/tree/main/Reque%CC%82te%20SQL) to test requests with your DB
 NB : Data used in this project has been published by the french government 
