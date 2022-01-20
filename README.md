@@ -17,7 +17,7 @@ All data we needed to store in a Data Base are as following :
 We propose to open a PostegreSQL server. Postegre offer us a easy to use admin interface for monitoring and requesting data base. 
 We use **table_create** written in SQL to build tables and relationnals dependancies
 
-* UML diagram here **link to diagram ** 
+* UML diagram here **link to diagram** 
 * 3NF relational schema here **link to relational schema**
 
 # DB installation
