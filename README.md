@@ -17,16 +17,18 @@ All data we needed to store in a Data Base are as following :
 We propose to open a PostegreSQL server. Postegre offer us a easy to use admin interface for monitoring and requesting data base. 
 We use **table_create** written in SQL to build tables and relationnals dependancies
 
-UML diagram here **<a ** 
-3NF relational schema here **<a**
+* UML diagram here **link to diagram ** 
+* 3NF relational schema here **link to relational schema**
 
 # DB installation
 
-run **table_create** 
-get cleaning data from here
-import data in PostegreSQL
+1. run **table_create.sql** as a SQL program
+2. get cleaning data for feeding the DB here
+3. import data in PostegreSQL 
 
 # Application
 
 Get free to request the DB to understang the french property market and find your real property at right prices.
+//
+Examples are provided into **Requete_SQL** folder.
 NB : Data used in this project has been published by the french government 
