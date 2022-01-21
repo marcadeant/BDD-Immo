@@ -34,3 +34,8 @@ Get free to request the DB to understang the french property market and find you
 Examples are provided into **Requete_SQL** folder. Click [here](https://github.com/marcadeant/BDD-Immo/tree/main/Reque%CC%82te%20SQL) to test requests with your DB
 <br>
 **NB** : Data used in this project has been published by the french government 
+
+# Requirements 
+
+* PostegreSQL latest version is preferrable (14.1 released in Nov 2021)
+* Installation from [Linux](https://www.postgresql.org/download/linux/), [MacOS](https://www.postgresql.org/download/macosx/) or [Windows](https://www.postgresql.org/download/windows/) platforms
