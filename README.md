@@ -18,7 +18,8 @@ We propose to open a PostegreSQL server. Postegre offer us a easy to use admin i
 We use [**table_create**](https://github.com/marcadeant/BDD-Immo/blob/main/table_create.sql) written in SQL to build tables and relationnals dependancies
 
 * UML diagram [**here**](https://github.com/marcadeant/BDD-Immo/blob/main/MCD_UML_Diagram) (open file with [draw.io](https://app.diagrams.net/))
-* 3NF relational schema [**here**](https://github.com/marcadeant/BDD-Immo/blob/main/mld_bdd_immo.architect) (open file with Power Architect Software or similar) 
+* 3NF relational schema [**here**](https://github.com/marcadeant/BDD-Immo/blob/main/mld_bdd_immo.architect) (open file with Power Architect Software or similar)
+* Import table from [**here**](https://github.com/marcadeant/BDD-Immo/blob/main/Tables BDD) 
 
 # DB installation
 
