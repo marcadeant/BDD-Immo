@@ -19,7 +19,7 @@ We use [**table_create**](https://github.com/marcadeant/BDD-Immo/blob/main/table
 
 * UML diagram [**here**](https://github.com/marcadeant/BDD-Immo/blob/main/MCD_UML_Diagram) (open file with [draw.io](https://app.diagrams.net/))
 * 3NF relational schema [**here**](https://github.com/marcadeant/BDD-Immo/blob/main/mld_bdd_immo.architect) (open file with Power Architect Software or similar)
-* Import table from [**here**](https://github.com/marcadeant/BDD-Immo/blob/main/Tables BDD) 
+* Import table from [**here**](https://github.com/marcadeant/BDD-Immo/blob/main/Tables%20BDD) 
 
 # DB installation
 
