@@ -23,8 +23,8 @@ We use [**table_create**](https://github.com/marcadeant/BDD-Immo/blob/main/table
 
 # DB installation
 
-1. run **table_create.sql** as a SQL program
-2. get cleaning data for feeding the DB here
+1. run **table_create.sql** as a SQL program in a PostegreSQL's shell
+2. get cleaning data for feeding the DB [**here**](https://github.com/marcadeant/BDD-Immo/blob/main/Tables%20BDD)
 3. import data in PostegreSQL 
 
 # Application
@@ -33,9 +33,10 @@ Get free to request the DB to understang the french property market and find you
 <br>
 Examples are provided into **Requete_SQL** folder. Click [here](https://github.com/marcadeant/BDD-Immo/tree/main/Reque%CC%82te%20SQL) to test requests with your DB
 <br>
-**NB** : Data used in this project has been published by the french government 
+**NB** : Data used in this project has been published by the french government
 
 # Requirements 
 
 * PostegreSQL latest version is preferrable (14.1 released in Nov 2021)
 * Installation from [Linux](https://www.postgresql.org/download/linux/), [MacOS](https://www.postgresql.org/download/macosx/) or [Windows](https://www.postgresql.org/download/windows/) platforms
+* Power Architect can be found [**here**](http://www.bestofbi.com/page/architect_download_os). Be careful to pick the right version according to your operating system 
