@@ -1,11 +1,11 @@
-CREATE TEMP TABLE prix_moyen_commune AS
+CREATE TEMP TABLE IF NOT EXISTS prix_moyen_commune AS
 SELECT commune.libellé as nom_commune, commune.code_departement as departement, AVG(prix) as prix_moyen
 FROM vente 
 JOIN bienimmo USING (id_art)
 JOIN commune USING (id_commune)
 GROUP BY nom_commune, departement;
 
-CREATE TEMP TABLE ranking_commune AS
+CREATE TEMP TABLE IF NOT EXISTS ranking_commune AS
 
 SELECT  
 RANK() OVER (
