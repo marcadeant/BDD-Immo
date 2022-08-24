@@ -1,6 +1,6 @@
 <p align="center"> 
-<img width="460" height="300" src="https://tse4.mm.bing.net/th?id=OIP.xFaf0HdhWCQyBnLr2gwLMAAAAA&pid=Api">
-<img width="460" height="300" src="http://www.itzgeek.com/wp-content/uploads/2012/03/PostgreSQL-logo.gif">
+<img width="150" height="150" src="https://tse4.mm.bing.net/th?id=OIP.xFaf0HdhWCQyBnLr2gwLMAAAAA&pid=Api">
+<img width="150" height="150" src="http://www.itzgeek.com/wp-content/uploads/2012/03/PostgreSQL-logo.gif">
 </p>
 
 # BDD-Immo
