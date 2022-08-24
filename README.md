@@ -1,4 +1,6 @@
-<center> ![Power Architect](https://tse4.mm.bing.net/th?id=OIP.xFaf0HdhWCQyBnLr2gwLMAAAAA&pid=Api) ![PostgreSQL](http://www.itzgeek.com/wp-content/uploads/2012/03/PostgreSQL-logo.gif) </center>
+<p align="center"> 
+![Power Architect](https://tse4.mm.bing.net/th?id=OIP.xFaf0HdhWCQyBnLr2gwLMAAAAA&pid=Api) ![PostgreSQL](http://www.itzgeek.com/wp-content/uploads/2012/03/PostgreSQL-logo.gif) 
+</p>
 
 # BDD-Immo
 Data Base for property prices's predictions and recommandation
