@@ -1,3 +1,5 @@
+![Power Architect](http://www.peteonsoftware.com/index.php/category/fluff/) ![PostgreSQL](http://www.itzgeek.com/how-tos/linux/opensuse/install-postgresql-9-1-with-pgadmin3-on-opensuse-12-1.html)
+
 # BDD-Immo
 Data Base for property prices's predictions and recommandation
 
@@ -12,9 +14,9 @@ All data we needed to store in a Data Base are as following :
 * Caracteristics about properties (number of rooms, size, type)
 * Street adress of the real property
 
-# Using of PostegreSQL as DBMS
+# Using of PostgreSQL as DBMS
 
-We propose to open a PostegreSQL server. Postegre offer us a easy to use admin interface for monitoring and requesting data base. 
+We propose to open a PostgreSQL server. Postgre offer us a easy to use admin interface for monitoring and requesting data base. 
 We use [**table_create**](https://github.com/marcadeant/BDD-Immo/blob/main/table_create.sql) written in SQL to build tables and relationnals dependancies
 
 * UML diagram [**here**](https://github.com/marcadeant/BDD-Immo/blob/main/MCD_UML_Diagram) (open file with [draw.io](https://app.diagrams.net/))
@@ -37,6 +39,6 @@ Examples are provided into **Requete_SQL** folder. Click [here](https://github.c
 
 # Requirements 
 
-* PostegreSQL latest version is preferrable (14.1 released in Nov 2021)
+* PostgreSQL latest version is preferrable (14.1 released in Nov 2021)
 * Installation from [Linux](https://www.postgresql.org/download/linux/), [MacOS](https://www.postgresql.org/download/macosx/) or [Windows](https://www.postgresql.org/download/windows/) platforms
 * Power Architect can be found [**here**](http://www.bestofbi.com/page/architect_download_os). Be careful to pick the right version according to your operating system 
